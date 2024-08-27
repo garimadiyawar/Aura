@@ -1,5 +1,5 @@
 # Aura
-V01 of a virtual personal assistant
+A virtual personal assistant
 
 Here’s a README documentation template for your Aura personal assistant project:
 
